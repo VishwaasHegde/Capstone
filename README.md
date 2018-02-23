@@ -1,5 +1,5 @@
 # Capstone
-This is the project which is being done as the capstone project for PGBDA course 
+This is the project which is being done as the capstone project for PGBDML course 
 
 **Modules:**
 
