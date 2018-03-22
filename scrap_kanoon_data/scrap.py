@@ -57,11 +57,6 @@ with open(FILEPATH) as urls:
 ## writing document URLS to File
 file = open('allDocumentsURLS.txt','w') 
 for docid in alldocumentIDs:
-    file.write('https://indiankanoon.org/doc/'+str(docid))
+    file.write('https://indiankanoon.org/doc/'+str(docid)+'/')
     file.write('\n')
 file.close()
-#
-#id = alldocumentIDs[0]
-#r = requests.get('https://indiankanoon.org/doc/'+str(id))
-#soup = BeautifulSoup(r.content, "lxml")
-#print(soup)
