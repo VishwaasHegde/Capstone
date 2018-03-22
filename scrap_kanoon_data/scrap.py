@@ -26,28 +26,26 @@ FILEPATH = r'urllist.txt'
 with open(FILEPATH) as urls:
     try:
         for url in urls:
-            r = requests.get(url)
             try:
-                soup = BeautifulSoup(r.content, "lxml")
+                soup = BeautifulSoup(requests.get(url).content, "lxml")
             except:
-                time.sleep(240)
-                r = requests.get(url)    
-                soup = BeautifulSoup(r.content, "lxml")
+                time.sleep(180)
+                soup = BeautifulSoup(requests.get(url).content, "lxml")
             try:
                 totalPages = int(int(str(soup.find_all(class_="results_middle")[0]).split('<div><b>')[1].split('</b>')[0].split('of')[1].strip())/10)
                 appendDocumentList(soup.find_all(class_="result_title"))
                 for i in range(totalPages):
                     time.sleep(5)
                     curl=((str(url)+'&pagenum='+str((i+1))).replace('\n', '').replace('\r', ''))
-                    r = requests.get(curl)
                     try:
-                        soup = BeautifulSoup(r.content, "lxml")
+                        soup = BeautifulSoup(requests.get(curl).content, "lxml")
                         appendDocumentList( soup.find_all(class_="result_title"))
                     except:
-                        time.sleep(240)
+                        time.sleep(180)
                         print("Unexpected error: -> ", sys.exc_info()[0])
                         pass
             except:
+                time.sleep(180)
                 print("Unexpected error    :", sys.exc_info()[0])
                 pass
     except:

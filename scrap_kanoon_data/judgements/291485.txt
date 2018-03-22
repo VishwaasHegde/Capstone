@@ -1,0 +1,183 @@
+
+Supreme Court of India
+M/S. Reckitt Benckiser (India) ... vs Commissioner, Commercial Taxes &amp; ... on 29 April, 2008Bench: S.H. Kapadia, B. Sudershan Reddy
+           CASE NO.:
+Appeal (civil)  3083 of 2008
+
+PETITIONER:
+M/s. Reckitt Benckiser (India) Ltd.
+
+RESPONDENT:
+Commissioner, Commercial Taxes &amp; Ors.
+
+DATE OF JUDGMENT: 29/04/2008
+
+BENCH:
+S.H. KAPADIA &amp; B. SUDERSHAN REDDY
+
+JUDGMENT:
+JUDGMENT
+O R D E R
+
+CIVIL APPEAL NO. 3083 OF 2008
+(Arising out of S.L.P.(C) No.6096/2007)
+
+
+	Leave granted.	
+	The short question involved in this Civil Appeal is whether mosquito repellants 
+and other items fall under Entry 44(5) of Schedule III to Kerala VAT Act, 2003.  
+The items are enlisted as follows:
+
+Sl.N
+o.
+Trade Name
+Name of Active 
+Ingredient
+Entry in relevant Statute 
+Licensing Authority
+ Licensing 
+Authority
+1.
+Mortein Coil, 8 
+hours, 10 hours and 
+12 hours
+D-trans Allerthrin
+Entry 55 in Schedule to 
+Insecticides Act, 1968 (at page 
+29 of Volume 2).  License 
+required under Section 3(e) for 
+manufacture.  Mandatory 
+declarations are made under 
+Rule 19 of Insecticide Rules, 
+1971
+Central 
+Insecticide 
+Board (CIB) as 
+per Insecticide 
+Act, 1968.
+2.
+Mortein Mats
+Prallethrin
+Entry 120 in Schedule to 
+Insecticides Act, 1968 (at page 
+29 of Volume 2).  License 
+required under Section 3(e) for 
+manufacture.  Mandatory 
+declarations are made under 
+Rule 19 of Insecticide Rules 
+1971
+-do-
+3.
+Mortein Vaporisers
+Prallethrin
+Entry 120 in Schedule to 
+Insecticides Act, 1968 (at page 
+29 of Volume 2).  License 
+required under Section 3(e) for 
+manufacture.  Mandatory 
+declarations are made under 
+Rule 19 of Insecticide Rules, 
+1971.
+-do-
+4.
+Mortein Instant 
+Cockroach Killer 
+(CIK) Mortein 
+Instant Flying Insect 
+Killer (FIK) Mortein 
+Instant All Insect 
+Killer (AIK)
+Deltamethrin, 
+Allethrin, 
+Imiprothrin and 
+Cyphenothrin 
+Covered under Entry 55 in 
+Schedule to Insecticides Act, 
+1968 (at page 29 of Volume 2).  
+License required under Section 
+3(e) for manufacture.  
+Mandatory declarations are 
+made under Rule 19 of 
+Insecticide Rules, 1971
+-do-
+5.
+Lizol Disinfectant 
+Surface Cleaner
+Benzalkonium 
+Chloride
+A disinfectant in terms of 
+Section 3(b)(ii) of Drugs and 
+Cosmetics Act 1940
+Drugs Controller
+6.
+Harpic Toilet Cleaner
+Hydrochloric Acid 
+&amp; Sodium 
+Hypochlorite
+A disinfectant in terms of 
+Section 3(b) (ii) of Drugs and 
+Cosmetics Act 1940
+-do-
+7.
+Dettol
+Chloroxylenol 
+(PCMX)
+Falls under Schedule K read 
+with Section 3(b)(ii) of Drugs 
+and Cosmetics Act 1940
+-do-
+
+	Under Section 6 of 2003 Act, goods specified in the Second and Third Schedules 
+are charged to duty at the rates specified therein whereas goods not falling within 
+the said two Schedules are assessable to duty under separate Notifications to be 
+issued by the State Government.  The narrow controversy in the present case which 
+arose for determination before the High Court was: Whether the above enlisted 
+items fall under para 44(5) read with Section 6(1)(a) of the 2003 Act?
+	According to the appellant, the said items fall under Para 44(5) which, at the 
+relevant time, attracted duty at the rate of 4%, whereas, according to the 
+Department, the said items came under Section 6(1)(d) read with Notification No.82 
+of 2006 -  Entry No.66 which attracted the rate of duty of 12.5%.
+	We have examined the impugned judgment.  In this case, we find that the High 
+Court in the impugned judgment has failed to notice the Rules of Interpretation 
+which require that in cases where HSN Code number is indicated against the Tariff 
+Item mentioned in the Third Schedule, then one has to go by the provisions of the 
+HSN as adopted by the Customs Tariff Act, 1975.  If that is the case, then, one need 
+to interpret the Entries in the Third Schedule not only in the light of the Entries in 
+the Customs Tariff Act, 1975 but also the judgments applicable to the corresponding 
+Entries in the Customs Tariff Act.  On the other hand, it is urged on behalf of the 
+Department that HSN, read with Customs Tariff Act, 1975, is not required to be 
+read, in the present case, as the figure "3808" against para 44(5) stood omitted by 
+Kerala Finance Act, 2006 which came into force w.e.f. 1st July, 2006.  
+	At this stage, we may state that the appellant-assessee had moved the 
+Commissioner under the relevant provisions of the Act for what is called as Advance 
+Clarificatory Order which is very similar to Advance Ruling under the Income Tax 
+Act.  The Commissioner had decided the matter against the appellant vide order 
+dated 7th April, 2006.  That decision has been confirmed by the High Court vide 
+impugned judgment.  
+	The important point which we need to stress is that neither the Commissioner nor 
+the High Court has considered the Rules of Interpretation of the Schedules to the 
+Kerala VAT Act, 2003.  The High Court has failed to consider the effect of the 
+omission of the figure "3808" by Kerala Finance Act, 2006.  In our view, a vital 
+aspect is lost sight of.   In the present case, the High Court has held that looking to 
+the HSN Code 3808.10.91  repellant for insects such as flies, mosquito, has a direct 
+relation to Heading 3808.  At the same time, the High Court has held that HSN Code 
+8516.79.20 of the Customs Tariff Act which deals with electrical or electronic devices 
+for repelling insects fall under HSN Code 8516 and, looking at that HSN Code, the 
+High Court has held that Code 3808.10.91 has to be read along with Heading 3808.  
+	The basic controversy, therefore, which arose before the High Court was whether 
+the above items fell within the sub-Heading 3808.10.91.  In this connection, we find 
+that Kerala VAT Act is aligned with Customs Tariff which in turn is aligned with 
+HSN and consequently each product in question was required to be seen in the 
+context of HSN Code and judgments based thereon.
+	Keeping in mind the above controversy, we set aside the impugned judgment and 
+remit the matter to the High Court for fresh consideration in accordance with law.  
+We may add that we express no opinion on the merits of the case.  We keep 
+contentions on both sides expressly open.
+	We may also clarify that under the Act, the transactions which have taken place 
+prior to 7th April, 2006 will not be taken into account and the advance clarification 
+will only apply for the period 7th April, 2006 onwards.  We request the High Court 
+to expeditiously hear and dispose of the Statutory Appeal of the appellant, 
+preferably within six months from today.
+
+	Civil Appeal stands disposed of accordingly.
+
